@@ -22,11 +22,9 @@ A clean, responsive todo list application built with React, Vite, and Tailwind C
 - React 18
 - Vite
 - Tailwind CSS
-- React Icons (optional)
-- LocalStorage (optional - if implemented)
 
 ## 📦 Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/ABDIFEKEDA/TodoListApp.git
