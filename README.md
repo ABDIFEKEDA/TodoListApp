@@ -1,12 +1,32 @@
-# React + Vite
+# 📝 React Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Todo App Screenshot](./src/assets/image/Screenshot%202025-07-31%20140500.png) <!-- Add a screenshot later -->
 
-Currently, two official plugins are available:
+A clean, responsive todo list application built with React, Vite, and Tailwind CSS that helps you manage your daily tasks effectively.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ✅ Add new tasks
+- ✔️ Mark tasks as complete
+- 🗑️ Delete tasks
+- 📱 Fully responsive design
+- 🎨 Modern UI with Tailwind CSS
+- ⚡ Fast performance with Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Live Demo
+
+[Try it out here!](https://your-deployment-link.com) <!-- Replace with your actual link -->
+
+## 🛠️ Technologies Used
+
+- React 18
+- Vite
+- Tailwind CSS
+- React Icons (optional)
+- LocalStorage (optional - if implemented)
+
+## 📦 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/todo-app.git
